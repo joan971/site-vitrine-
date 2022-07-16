@@ -1,2 +1,2 @@
-# site-vitrine-
+# site-vitrine
 site vitrine responsive
